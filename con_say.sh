@@ -1,3 +1,4 @@
+#this script written to get the client ip adress list comming to a service in a day
 #!/bin/bash
 start_t=`date +%s`
 
